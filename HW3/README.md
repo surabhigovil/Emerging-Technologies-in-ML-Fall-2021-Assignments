@@ -1,8 +1,3 @@
-BERT based fine tuning of pre trained models. The folder consisits of notebooks which have BERT bas
+BERT based fine tuning of pre trained models. The folder consisits of notebooks which have BERT pre trained models fine tuned for various tasks. Hugging Face transformers package library is used for getting models for perfroming a variety of natural language processing (NLP) tasks.
 
-1. Named Entity Recognition
-2. Question Aswering 
-   
-3. Newspaper Article Summarization
-4. Text Classification
-5. 
+
