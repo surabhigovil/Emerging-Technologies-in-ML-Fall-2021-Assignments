@@ -1,1 +1,0 @@
-The folder contains research and findings on the Survey paper: 
