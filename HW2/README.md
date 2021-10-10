@@ -5,7 +5,9 @@ Perciever Input: Images from Cifar dataset categorized into 10 categories.
 Perciever Output: Classification of image into 1 of the ten labels
 
 Visualizing the loss and accuracy from perciever image classification:
+
 ![image](https://user-images.githubusercontent.com/10840984/136708281-40cc0f26-2b15-4247-9568-6121041a6e83.png)
+
 
 Perceiver IO which is a generalization of Perceiver as in that it can take any arbitrary inputs and produce outputs has been trained for a video flow task. Here trained Perciever IO for creating an optical flow from video.
 
