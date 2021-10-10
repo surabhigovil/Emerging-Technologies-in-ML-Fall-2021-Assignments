@@ -1,6 +1,6 @@
 This folder contains DeepMind's Perciever and Perciever IO models explored in detail. Perciever model is trained for image classification task. Keras has been used to implement Perciever model.
 
-Perciever Input:
+Perciever Input: Images from Cifar dataset categorized into 10 categories. 
 
 Perciever Output:
 
