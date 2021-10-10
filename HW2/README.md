@@ -2,7 +2,7 @@ This folder contains DeepMind's Perciever and Perciever IO models explored in de
 
 Perciever Input: Images from Cifar dataset categorized into 10 categories. 
 
-Perciever Output:
+Perciever Output: Classification of image into 1 of the ten labels
 
 Perceiver IO which is a generalization of Perceiver as in that it can take any arbitrary inputs and produce outputs has been trained for a video flow task. Here trained Perciever IO for creating an optical flow from video.
 
