@@ -1,4 +1,7 @@
 BERT based fine tuning of pre trained models. The folder consisits of notebooks which have BERT pre trained models fine tuned for various tasks. Hugging Face transformers package library is used for getting models for perfroming a variety of natural language processing (NLP) tasks.
+1. Fine tuned pretrained Helsinki-NLP for translating Frech to English. The dataset used in publically available on Kaggle; https://www.kaggle.com/dhruvildave/en-fr-translation-dataset 
+![image](https://user-images.githubusercontent.com/10840984/139185996-b6bc138b-35ac-4f0a-a0f5-8d1ed7c25f65.png)
+
 
 2. Fine tune BERT for Question Answering.
 
