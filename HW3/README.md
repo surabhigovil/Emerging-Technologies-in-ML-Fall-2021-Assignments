@@ -19,19 +19,21 @@ BERT based fine tuning of pre trained models. The folder consisits of notebooks 
 
 3. Fine DitilBERT for multi class classification trained on Emotion dataset from hugging face dataset library.  
 
-   Gradio App Output:
-   
+     Gradio App Output:
+    ![multi_class1](https://user-images.githubusercontent.com/10840984/139509463-9fbd77c5-58bf-4877-bdf7-82b744c6f1c8.PNG)
+    ![multi_class_2](https://user-images.githubusercontent.com/10840984/139509469-34128dec-db03-4151-a795-f3ab0c96a14d.PNG)
+
    Tensroboard Evaluation:
+    ![multi_tensroboard](https://user-images.githubusercontent.com/10840984/139509475-28c0aeb7-9bb4-4067-a2fa-08c812471cd9.png)
 
 
 4. Fine tuning pre trained DistilBart for summarization task. The model is trained on Wiki Lingua dataset.
 
    Gradio App Output:
-   ![multi_class1](https://user-images.githubusercontent.com/10840984/139509463-9fbd77c5-58bf-4877-bdf7-82b744c6f1c8.PNG)
-![multi_class_2](https://user-images.githubusercontent.com/10840984/139509469-34128dec-db03-4151-a795-f3ab0c96a14d.PNG)
+
 
    Tensroboard Evaluation:
-![multi_tensroboard](https://user-images.githubusercontent.com/10840984/139509475-28c0aeb7-9bb4-4067-a2fa-08c812471cd9.png)
+
 
 
 5. Fine tuning pre trained GPT2 for text generation. The model is trained on Netflix TV shows and Movie dataset.
