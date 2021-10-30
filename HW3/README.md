@@ -30,9 +30,13 @@ BERT based fine tuning of pre trained models. The folder consisits of notebooks 
 4. Fine tuning pre trained DistilBart for summarization task. The model is trained on Wiki Lingua dataset.
 
    Gradio App Output:
+   
+   ![image](https://user-images.githubusercontent.com/10840984/139514215-47fa3d12-fb0a-4c25-b582-4d255935484e.png)
 
 
    Tensroboard Evaluation:
+   
+   ![image](https://user-images.githubusercontent.com/10840984/139514137-ba07e59f-3dde-4b33-8890-1de68d1c5f22.png)
 
 
 
